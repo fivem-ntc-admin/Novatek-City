@@ -2,4 +2,4 @@
 
 ---
 
-## <img src="assets/Unknown.svg" alt="attention icon" width="23" /> 最新のリリースノートをご確認ください。
+## <img src="assets/Unknown-2.svg" alt="attention icon" width="20" /> 最新のリリースノートをご確認ください。
